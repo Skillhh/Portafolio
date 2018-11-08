@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1008.xsd">
+<Cab>
+<Ano>2017</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1008</Formato>
+<Version>7</Version>
+<NumEnvio>1</NumEnvio>
+<FecEnvio>2017-06-20T00:25:24</FecEnvio>
+<FecInicial>2016-01-01</FecInicial>
+<FecFinal>2016-12-31</FecFinal>
+<ValorTotal>546681170</ValorTotal>
+<CantReg>24</CantReg>
+</Cab>
+<saldoscc cpt="1315" tdoc="31" nid="900488019" dv="9" raz="arcillas milenium" dir="CLL 12A N 3D 18" dpto="25" mun="843" pais="169" sal="4230800"/>
+<saldoscc cpt="1315" tdoc="31" nid="815000863" dv="6" raz="avidesa de occidente s.a." dir="CLL 72 N 10 - 03" dpto="25" mun="407" pais="169" sal="14272100"/>
+<saldoscc cpt="1315" tdoc="31" nid="900426398" dv="1" raz="carboneras san jose sas" dir="CLL 49 N 63 - 100" dpto="25" mun="843" pais="169" sal="82289924"/>
+<saldoscc cpt="1315" tdoc="31" nid="900614808" dv="4" raz="carboneratibitas sas" dir="CRA 9 N 8 - 25" dpto="25" mun="317" pais="169" sal="1656400"/>
+<saldoscc cpt="1315" tdoc="31" nid="900299137" dv="9" raz="cartones plasticos la dolores sas" dir="CLL 3 N 4-50" dpto="25" mun="407" pais="169" sal="13297450"/>
+<saldoscc cpt="1315" tdoc="13" nid="3222476" apl1="castiblanco" apl2=" pulga" nom1=" victor " nom2="manuel" dir="CLL 12 A N 3D - 18" dpto="25" mun="407" pais="169" sal="2930029"/>
+<saldoscc cpt="1315" tdoc="31" nid="832007893" dv="0" raz="ceramicas hondave sas" dir="CLL 3 N 4-50" dpto="25" mun="843" pais="169" sal="1817460"/>
+<saldoscc cpt="1315" tdoc="31" nid="900152985" dv="6" raz="confecciones druiss sas" dir="CLL 49 N 63 - 100" dpto="11" mun="001" pais="169" sal="39457500"/>
+<saldoscc cpt="1315" tdoc="31" nid="830119339" dv="5" raz="constructora e inversiones el" dir="CLL 49 N 63 - 100" dpto="25" mun="407" pais="169" sal="2494150"/>
+<saldoscc cpt="1315" tdoc="31" nid="830132170" dv="1" raz="conversion de sales y" dir="CLL 72F 112 F 06 P4" dpto="25" mun="407" pais="169" sal="988788"/>
+<saldoscc cpt="1315" tdoc="31" nid="900037319" dv="9" raz="gres la fontana sa" dir="CLL 49 N 63 - 100" dpto="11" mun="001" pais="169" sal="10704250"/>
+<saldoscc cpt="1315" tdoc="31" nid="830501141" dv="1" raz="inversiones castro vasquez y" dir="CRA 10 N 27 - 47" dpto="54" mun="001" pais="169" sal="2326550"/>
+<saldoscc cpt="1315" tdoc="31" nid="891304762" dv="2" raz="italcol de occidente s.a." dir="CALLE 12A N 3D 18" dpto="25" mun="224" pais="169" sal="14878504"/>
+<saldoscc cpt="1315" tdoc="31" nid="860522351" dv="0" raz="ladrillera prisma sas" dir="CALLE 93 15-59 0F 301" dpto="15" mun="087" pais="169" sal="74503575"/>
+<saldoscc cpt="1315" tdoc="31" nid="900691374" dv="8" raz="magno transportes de colombia" dir="CALLE 26 N 24-34 " dpto="25" mun="843" pais="169" sal="15187313"/>
+<saldoscc cpt="1315" tdoc="13" nid="1432456987" apl1="moscoso" nom1=" victor" dir="CRA N 12-05 " dpto="11" mun="001" pais="169" sal="3011000"/>
+<saldoscc cpt="1315" tdoc="31" nid="900292211" dv="4" raz="refinadora nacional de aceites y" dir="CRA 6 N 8 - 68" dpto="25" mun="843" pais="169" sal="45051000"/>
+<saldoscc cpt="1315" tdoc="13" nid="80296544" apl1="rodriguez" apl2=" rodriguez" nom1=" yesid " nom2="ferney" dir="CLL 12 A N 3D - 18" dpto="11" mun="001" pais="169" sal="13558649"/>
+<saldoscc cpt="1315" tdoc="13" nid="1076649610" apl1="canon" apl2=" rodriguez" nom1=" fabio" nom2="nelson" dir="CLL 72 F N 112F 06" dpto="11" mun="001" pais="169" sal="3300000"/>
+<saldoscc cpt="1315" tdoc="31" nid="900614747" dv="3" raz="carbones granulados s.a.s." dir="CRA 10 N 27 - 47" dpto="11" mun="001" pais="169" sal="8000000"/>
+<saldoscc cpt="1315" tdoc="31" nid="900528442" dv="4" raz="mineralcom s.a.s." dir="CLL 100 CON CR 23" dpto="11" mun="001" pais="169" sal="1000000"/>
+<saldoscc cpt="1315" tdoc="13" nid="23800419" apl1="nieto " nom1="marcelo" nom2="edilia" dir="CRA 58 N 9 - 97" dpto="11" mun="001" pais="169" sal="1000000"/>
+<saldoscc cpt="1315" tdoc="13" nid="79347444" apl1="ortegon" apl2="murcia" nom1="pedro" dir="CRA 45 N 94 - 72" dpto="11" mun="001" pais="169" sal="4963042"/>
+<saldoscc cpt="1315" tdoc="31" nid="800197268" raz="DIAN" dir="CLL 72 F N 112 F 06" dpto="11" mun="001" pais="169" sal="185762686"/>
+</mas>

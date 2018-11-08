@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1007.xsd">
+<Cab>
+<Ano>2016</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1007</Formato>
+<Version>8</Version>
+<NumEnvio>1</NumEnvio>
+<FecEnvio>2017-06-19T19:23:23</FecEnvio>
+<FecInicial>2015-01-01</FecInicial>
+<FecFinal>2015-12-31</FecFinal>
+<ValorTotal>80020</ValorTotal>
+<CantReg>20</CantReg>
+</Cab>
+<ingresos cpt="4001" tdoc="31" nid="800149149" dv="1" raz="ALBATAQUE SA" pais="169" ipro="17961630" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="815000863" dv="6" raz="AVIDESA DE OCCIDENTE SA" pais="169" ipro="120228400" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900426398" dv="1" raz="CARBONERAS SAN JOSE SAS" pais="169" ipro="103334490" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900472158" dv="4" raz="CARBONES SANTA MARTA SAS" pais="169" ipro="11833690" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900299137" dv="9" raz="CARTONES PLASTICOS LA DOLORES" pais="169" ipro="20171100" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="832007893" dv="0" raz="CERAMICA HONDAVE SAS" pais="169" ipro="9570300" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900152985" dv="6" raz="CONFECCIONES DRUISS SAS" pais="169" ipro="106440600" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="830119339" dv="5" raz="CONSTRUCTURA E INVERSIONES " pais="169" ipro="80608400" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900037319" dv="9" raz="GRES LA FONTANA SA" pais="169" ipro="8201350" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="830501141" dv="1" raz="INVERSIONES CASTRO VASQUEZ" pais="169" ipro="15616250" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="891304762" dv="2" raz="ITALCOL DE OCCIDENTE SA" pais="169" ipro="43086250" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="860522351" dv="0" raz="LADRILLERA PRISMA SAS" pais="169" ipro="233955970" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="817002591" dv="4" raz="LADRILLERA TERRANOVA SA" pais="169" ipro="6480900" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900589712" dv="9" raz="MINERAL PACIFIC SAS" pais="169" ipro="237763200" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900292211" dv="4" raz="REFINADORA NACIONAL DE ACEITES" pais="169" ipro="165671350" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="13" nid="80296544" apl1="RODRIGUEZ" apl2="RODRIGUEZ" nom1="YESID" nom2="FERNEY" pais="169" ipro="38451450" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900614808" dv="4" raz="CARBONERATIBITAS SAS" pais="169" ipro="1500000" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="13" nid="3222476" apl1="CASTIBLANCO" apl2="PULGA" nom1="VICTOR" nom2="MANUEL" pais="169" ipro="11443900" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="31" nid="900691374" dv="8" raz="MAGNO TRANSPORTES DE COLOMBIA" pais="169" ipro="25307600" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+<ingresos cpt="4001" tdoc="13" nid="21056020" apl1="SABOYA" apl2="DE CASTIBLANCO" nom1="ELBA" pais="169" ipro="2903880" icon="0" iman="0" iexp="0" ifid="0" iter="0" dev="0"/>
+</mas>

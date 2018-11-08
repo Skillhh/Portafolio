@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1009.xsd">
+<Cab>
+<Ano>2017</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1009</Formato>
+<Version>7</Version>
+<NumEnvio>1</NumEnvio>
+<FecEnvio>2017-06-20T00:36:33</FecEnvio>
+<FecInicial>2016-01-01</FecInicial>
+<FecFinal>2016-12-31</FecFinal>
+<ValorTotal>572381300</ValorTotal>
+<CantReg>36</CantReg>
+</Cab>
+<saldoscp cpt="2201" tdoc="13" nid="1076649610" apl1="CAÑON" apl2="RODRIGUEZ" nom1="FABIO" nom2="NELSON" dir="CLL 12A N 3D 18" dpto="25" mun="843" pais="169" sal="9557140"/>
+<saldoscp cpt="2201" tdoc="13" nid="3222476" apl1="CASTIBLANCO" apl2="PULGA" nom1="VICTOR" nom2="MANUEL" dir="CLL 72 N 10 - 03" dpto="25" mun="843" pais="169" sal="165868920"/>
+<saldoscp cpt="2205" tdoc="13" nid="80296536" apl1="CORTES" apl2="CHIQUIZA" nom1="ELVER" nom2="EDUARDO" dir="CLL 49 N 63 - 100" dpto="25" mun="407" pais="169" sal="4491"/>
+<saldoscp cpt="2201" tdoc="13" nid="74357079" apl1="GIL" apl2="BUITRAGO" nom1="ARCADIO" dir="CRA 9 N 8 - 25" dpto="25" mun="407" pais="169" sal="245000"/>
+<saldoscp cpt="2201" tdoc="13" nid="79162481" apl1="GOMEZ" apl2="CORTES" nom1="NELSON" nom2="ANTONIO" dir="CLL 3 N 4-50" dpto="25" mun="843" pais="169" sal="93278"/>
+<saldoscp cpt="2201" tdoc="13" nid="3048783" apl1="GONZALEZ" apl2="CHAVEZ" nom1="WILLIAN" nom2="RICARDO" dir="CLL 12 A N 3D - 18" dpto="25" mun="317" pais="169" sal="1864912"/>
+<saldoscp cpt="2205" tdoc="13" nid="3048575" apl1="GONZALEZ" apl2="CHAVEZ" nom1="LUIS" nom2="ABELARDO" dir="CLL 3 N 4-50" dpto="25" mun="407" pais="169" sal="818403"/>
+<saldoscp cpt="2206" tdoc="13" nid="3048575" apl1="GONZALEZ" apl2="CHAVEZ" nom1="LUIS" nom2="ABELARDO" dir="CLL 49 N 63 - 100" dpto="25" mun="407" pais="169" sal="1425020"/>
+<saldoscp cpt="2205" tdoc="13" nid="80295808" apl1="HERRERA" apl2="RODRIGUEZ" nom1="ROSENDO" dir="CLL 49 N 63 - 100" dpto="25" mun="407" pais="169" sal="911855"/>
+<saldoscp cpt="2206" tdoc="13" nid="7316282" apl1="MORALES" apl2="GARCIA" nom1="ANDERSON" dir="CLL 72F 112 F 06 P4" dpto="25" mun="843" pais="169" sal="725000"/>
+<saldoscp cpt="2206" tdoc="13" nid="94296602" apl1="PACHECO" apl2="VALDERRUTEIN" nom1="LUIS" nom2="ANGEL" dir="CLL 72F 112 F 06 P4" dpto="76" mun="130" pais="169" sal="1024200"/>
+<saldoscp cpt="2206" tdoc="13" nid="39542378" apl1="RAMIREZ" apl2="SANCHEZ" nom1="YOLANDA" dir="CLL 49 N 63 - 100" dpto="11" mun="001" pais="169" sal="4200000"/>
+<saldoscp cpt="2205" tdoc="13" nid="80296769" apl1="RODRIGUEZ" apl2="CASALLAS" nom1="CESAR" nom2="IVAN" dir="CRA 10 N 27 - 47" dpto="25" mun="407" pais="169" sal="4491"/>
+<saldoscp cpt="2205" tdoc="13" nid="1071839954" apl1="SABOGAL" apl2="FIQUE" nom1="JOSE" nom2="LEONARDO" dir="CALLE 12A N 3D 18" dpto="25" mun="407" pais="169" sal="4491"/>
+<saldoscp cpt="2202" tdoc="13" nid="21056020" apl1="SABOYA" apl2="DE CASTIBLANCO" nom1="ELBA" dir="CALLE 93 15-59 0F 301" dpto="25" mun="843" pais="169" sal="1000000"/>
+<saldoscp cpt="2206" tdoc="13" nid="79160695" apl1="SABOYA " apl2="AVENDAÑO" nom1="JAIRO" dir="CALLE 26 N 24-34 " dpto="11" mun="001" pais="169" sal="1200000"/>
+<saldoscp cpt="2205" tdoc="13" nid="1071840398" apl1="SANCHEZ" apl2="TRIANA" nom1="MIGUEL" nom2="ALONSO" dir="CRA N 12-05 " dpto="25" mun="407" pais="169" sal="137001"/>
+<saldoscp cpt="2201" tdoc="31" nid="900226684" dv="3" raz="C.I. BULK TRADING SUR AMERICA LTDA" dir="CRA 6 N 8 - 68" dpto="54" mun="001" pais="169" sal="123151099"/>
+<saldoscp cpt="2201" tdoc="31" nid="830504257" dv="0" raz="COOPERATIVA MULTIACTIVA DE TRABAJADORES DE CUCUNUBA" dir="CLL 12 A N 3D - 18" dpto="25" mun="224" pais="169" sal="310000"/>
+<saldoscp cpt="2201" tdoc="31" nid="900582741" dv="0" raz="INVERSIONES JOSE MARIA AMAYA " dir="CLL 72 F N 112F 06" dpto="15" mun="087" pais="169" sal="863056"/>
+<saldoscp cpt="2201" tdoc="31" nid="900691374" dv="8" raz="MAGNOTRANSPORTES DE COLOMBIA SAS" dir="CRA 5 N 1 -165" dpto="25" mun="486" pais="169" sal="46020"/>
+<saldoscp cpt="2201" tdoc="31" nid="900419311" dv="0" raz="PARQUE INDUSTRIAL EBATE SAS" dir="CRA 10 N 27 - 47" dpto="25" mun="843" pais="169" sal="3579370"/>
+<saldoscp cpt="2201" tdoc="31" nid="830515226" raz="VISUM Y CIA LTDA" dir="CLL 100 CON CR 23" dpto="25" mun="843" pais="169" sal="748200"/>
+<saldoscp cpt="2203" tdoc="31" nid="890903938" dv="8" raz="BANCOLOMBIA" dir="CRA 58 N 9 - 97" dpto="11" mun="001" pais="169" sal="60623863"/>
+<saldoscp cpt="2203" tdoc="31" nid="860059294" dv="3" raz="LEASING BANCOLOMBIA" dir="CRA 45 N 94 - 72" dpto="11" mun="001" pais="169" sal="172108478"/>
+<saldoscp cpt="2203" tdoc="31" nid="900614747" dv="3" raz="CARBONES GRANULADOS SAS" dir="CLL 49 N 63 - 100" dpto="25" mun="843" pais="169" sal="7095187"/>
+<saldoscp cpt="2204" tdoc="31" nid="800197268" dv="4" raz="DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES - DIAN" dir="CLL 72 F N 112 F 06" dpto="11" mun="001" pais="169" sal="10783983"/>
+<saldoscp cpt="2205" tdoc="31" nid="830003564" dv="7" raz="EPS FAMISANAR" dir="CLL 100 CON CR 23" dpto="11" mun="001" pais="169" sal="41400"/>
+<saldoscp cpt="2205" tdoc="31" nid="800140949" dv="6" raz="CAFESALUD" dir="CRA 58 N 9 - 97" dpto="11" mun="001" pais="169" sal="42960"/>
+<saldoscp cpt="2205" tdoc="31" nid="899999107" dv="9" raz="EPS CONVIDA" dir="CRA 45 N 94 - 72" dpto="11" mun="001" pais="169" sal="12405"/>
+<saldoscp cpt="2205" tdoc="31" nid="860011153" dv="6" raz="POSITIVA COMPAÑIA DE SEGUROS " dir="CRA 10 N 27 - 91" dpto="11" mun="001" pais="169" sal="73790"/>
+<saldoscp cpt="2205" tdoc="31" nid="900336004" dv="7" raz="COLPENSIONES" dir="CRA 10 N 27 - 91" dpto="11" mun="001" pais="169" sal="295387"/>
+<saldoscp cpt="2205" tdoc="31" nid="800229739" dv="0" raz="PROTECCION (ING + PROTECCION)" dir="CLL 49 N 63 - 100" dpto="11" mun="001" pais="169" sal="36980"/>
+<saldoscp cpt="2205" tdoc="31" nid="800224808" dv="8" raz="FONDO DE PENSIONES OBLIGATORIAS PORVENIR" dir="CLL 49 N 63 - 100" dpto="11" mun="001" pais="169" sal="244820"/>
+<saldoscp cpt="2205" tdoc="31" nid="860007336" dv="1" raz="COLSUBSIDIO" dir="CALLE 26 N 24-34 " dpto="11" mun="001" pais="169" sal="40100"/>
+<saldoscp cpt="2206" tdoc="31" nid="900117575" dv="1" raz="MINERALES Y CARBONES LTDA." dir="CALLE 72 F N 112 F 06" dpto="11" mun="001" pais="169" sal="3200000"/>
+</mas>

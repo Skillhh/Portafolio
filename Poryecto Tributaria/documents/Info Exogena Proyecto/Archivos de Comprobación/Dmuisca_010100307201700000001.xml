@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/1003.xsd">
+<Cab>
+<Ano>2017</Ano>
+<CodCpt>1</CodCpt>
+<Formato>1003</Formato>
+<Version>7</Version>
+<NumEnvio>1</NumEnvio>
+<FecEnvio>2017-06-20T00:01:17</FecEnvio>
+<FecInicial>2016-01-01</FecInicial>
+<FecFinal>2016-12-31</FecFinal>
+<ValorTotal>1539324</ValorTotal>
+<CantReg>7</CantReg>
+</Cab>
+<rets cpt="1306" tdoc="13" nid="79162180" apl1="NIETO " nom1="MARCELO" nom2="EDILIA" dir="CLL 12A N 3D 18" dpto="25" mcpo="843" valor="1837800" ret="45945"/>
+<rets cpt="1306" tdoc="13" nid="7332297" apl1="TORRES " apl2="LOPEZ" nom1="JAVIER" dir="CLL 72 N 10 - 03" dpto="25" mcpo="843" valor="11953834" ret="298846"/>
+<rets cpt="1306" tdoc="13" nid="39737589" apl1="BELLO" apl2="CAICEDO " nom1="CARLOS" nom2="JULIO" dir="CLL 49 N 63 - 100" dpto="25" mcpo="843" valor="7451100" ret="185527"/>
+<rets cpt="1306" tdoc="13" nid="20722976" apl1="RODRIGUEZ" apl2="RODRIGUEZ" nom1="YESID" nom2="FERNEY" dir="CRA 9 N 8 - 25" dpto="25" mcpo="843" valor="25445700" ret="636143"/>
+<rets cpt="1306" tdoc="13" nid="20723285" apl1="BUITRAGO" apl2="MAYORGA" nom1="FLOR" nom2="MARIA" dir="CLL 3 N 4-50" dpto="25" mcpo="843" valor="11207700" ret="280193"/>
+<rets cpt="1306" tdoc="31" nid="830003564" dv="7" raz="AUTODRONE SAS" dir="CLL 12 A N 3D - 18" dpto="25" mcpo="843" valor="2576030" ret="64401"/>
+<rets cpt="1306" tdoc="31" nid="860011153" dv="6" raz="PROVETAMIZ LTDA" dir="CLL 49 N 63 - 100" dpto="25" mcpo="843" valor="1130760" ret="28269"/>
+</mas>
